@@ -12,5 +12,3 @@ Dynamic Visualizations: Created interactive charts and graphs to highlight trend
 
 Insightful Analysis: Identified seasonal trends and patterns in customer behavior through dynamic tools.
 
-## Dashboard
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
